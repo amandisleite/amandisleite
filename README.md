@@ -1,6 +1,7 @@
 ### Uma Dev em formação
 
 Sou Publicitária (Mackenzie) e tenho pós-graduação em Inovação, Design e Estratégia (ESPM).
+<br>
 Atualmente, tô mergulhando em programação e aprendendo a ser uma Desenvolvedora.
 
 
